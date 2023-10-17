@@ -1,0 +1,14 @@
+{
+    "autoload": {
+        "psr-4": {
+            "Core\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "php2",
+            "email": "choitaosao1999@gmail.com"
+        }
+    ],
+    "require": {}
+}
